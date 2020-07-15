@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "model": "PUERTA CORTAFUEGO RF60 0800mmX2000mm PL",
+      "price": 1200
+    },
+    {
+      "id": 1,
+      "model": "PUERTA CORTAFUEGO RF60 0900mmX2000mm PL",
+      "price": 1400
+    },
+    {
+      "id": 2,
+      "model": "PUERTA CORTAFUEGO RF60 1000mmX2000mm PL",
+      "price": 1600
+    },
+    {
+      "id": 3,
+      "model": "PUERTA CORTAFUEGO RF60 1100mmX2000mm PL",
+      "price": 1800
+    },
+    {
+      "id": 4,
+      "model": "PUERTA CORTAFUEGO RF60 1200mmX2000mm PL",
+      "price": 2000
+    }
+  ]
+}
