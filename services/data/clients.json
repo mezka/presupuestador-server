@@ -1,6 +1,7 @@
 {
   "clients": [
       {
+        "id": 0,
         "name": "Emiliano Mesquita",
         "address": "Av Vergara 4775",
         "phonenumber": 1540766551
