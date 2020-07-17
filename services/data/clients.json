@@ -3,8 +3,9 @@
       {
         "id": 0,
         "name": "Emiliano Mesquita",
+        "email": "emiliano_mesquita@hotmail.com",
         "address": "Av Vergara 4775",
-        "phonenumber": 1540766551
+        "phonenumber": "1540766551"
     }
   ]
 }

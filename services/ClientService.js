@@ -9,18 +9,17 @@ class ClientService {
     return this.clients;
   }
 
-  async create ({ name, address, phonenumber }) {
+  async create (data) {
+
     const client = {
       id: this.clients.length,
-      name,
-      address,
-      phonenumber
-    }
+      name: data.name,
+      address: data.address,
+      email: data.email,
+      phonenumber: data.phonenumber
+    };
 
     this.clients.push(client);
-
-    console.log(client);
-
     return client;
   }
 }
