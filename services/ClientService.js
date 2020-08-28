@@ -14,9 +14,9 @@ class ClientService {
     const client = {
       id: this.clients.length,
       name: data.name,
-      address: data.address,
-      email: data.email,
-      phonenumber: data.phonenumber
+      address0: data.address0,
+      email0: data.email0,
+      phonenumber0: data.phonenumber0
     };
 
     this.clients.push(client);

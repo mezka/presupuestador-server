@@ -29,6 +29,18 @@
       "model": "PUERTA CORTAFUEGO RF60 1200mmX2000mm PL",
       "modelstub": "P. CORTAFUEGO RF60 1200mmX2000mm PL",
       "price": 2000
+    },
+    {
+      "id": 5,
+      "model": "BARRAL SIMPLE PUSH NEGRO",
+      "modelstub": "BARRAL SIMPLE PUSH NEGRO",
+      "price": 750
+    },
+    {
+      "id": 6,
+      "model": "POMO EXTERIOR CON LLAVE NEGRO",
+      "modelstub": "POMO EXT CON LLAVE NEGRO",
+      "price": 750
     }
   ]
 }
